@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/talbertc-usgs/fort-pymdwizard.svg?branch=master)](https://travis-ci.org/talbertc-usgs/fort-pymdwizard)
 [![Hackage](https://coveralls.io/repos/github/talbertc-usgs/fort-pymdwizard/badge.svg?branch=master)](https://coveralls.io/github/talbertc-usgs/fort-pymdwizard?branch=master)
+[![Github All Releases](https://img.shields.io/github/downloads/tnorkin/fort-pymdwizard/total.svg)]()
 
 <img width="250" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/USGS_logo_green.svg/500px-USGS_logo_green.svg.png"/>
 
